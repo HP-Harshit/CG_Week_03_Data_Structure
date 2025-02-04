@@ -1,6 +1,7 @@
+package stringbuilderproblems.reversestring;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import stringbuilderproblems.reversestring.ReverseString;
 
 public class ReverseStringTest {
  @Test
