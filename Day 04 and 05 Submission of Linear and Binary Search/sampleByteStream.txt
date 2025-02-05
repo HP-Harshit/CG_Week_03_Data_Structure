@@ -1,0 +1,5 @@
+Hello, this is a sample file.
+It contains multiple lines of text.
+Each line serves as a separate string.
+This file is used to demonstrate reading from a file using FileReader and InputStreamReader.
+Hope you find this example helpful!
